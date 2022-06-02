@@ -1,5 +1,8 @@
 <html>
   <head>
+    <title>
+      Puppies Co.
+    </title>
     <style>
       #main {
         padding: 3em;
@@ -11,14 +14,44 @@
       p {
         color: #f66;
       }
+      button {
+        background: purple;
+        color: white;
+      }
+      #puppy {
+        display: none;
+      }
     </style>
   </head>
   <body>
     <div id="main">
-    <h1>Hi, I'm Guinny!</h1>
-    <p>
-      I love dogs. I think they are cute!!! Dogs are the best animals in the world. I mean, ever. Did you know that there are 339 breeds of dog in the world?
-    </p>
+      <h1>Puppy Co.</h1>
+      <p>
+        I love dogs. I think they are cute!!! Dogs are the best animals in the world. I mean, ever.
+      </p>
+      <p>
+        Did you know that there are 339 breeds of dog in the world?
+      </p>
+      <p class="button-press">
+        Press this button for a cute pic
+      </p>
+      <p class="button-press">
+        <button>Press me!!</button>
+      </p>
+      <p id="puppy">
+        <img src="pics/puppy-01.png"/>
+      </p>
     </div>
+    <script type="text/javascript">
+      alert("This page is for members of the Lee and O'Brien family only!!");
+      var dogButton = document.getElementsByTagName("button")[0];
+      var dogImage = document.getElementById("puppy");
+      var buttonPress = document.getElementsByClassName("button-press");
+      dogButton.onclick = () => {
+        dogImage.style.display = "block";
+        buttonPress[0].remove();
+        buttonPress[0].remove();
+      };
+    </script>
   </body>
 </html>
