@@ -1,0 +1,47 @@
+{
+  "frames": {
+    "purple-gem-0": { "frame": { "x": 0, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-1": { "frame": { "x": 50, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-2": { "frame": { "x": 100, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-3": { "frame": { "x": 150, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-4": { "frame": { "x": 200, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-5": { "frame": { "x": 250, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-6": { "frame": { "x": 300, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-7": { "frame": { "x": 350, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-8": { "frame": { "x": 400, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-9": { "frame": { "x": 450, "y": 0, "w": 50, "h": 50 } },
+    "purple-gem-10": { "frame": { "x": 0, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-11": { "frame": { "x": 50, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-12": { "frame": { "x": 100, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-13": { "frame": { "x": 150, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-14": { "frame": { "x": 200, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-15": { "frame": { "x": 250, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-16": { "frame": { "x": 300, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-17": { "frame": { "x": 350, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-18": { "frame": { "x": 400, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-19": { "frame": { "x": 450, "y": 50, "w": 50, "h": 50 } },
+    "purple-gem-20": { "frame": { "x": 0, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-21": { "frame": { "x": 50, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-22": { "frame": { "x": 100, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-23": { "frame": { "x": 150, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-24": { "frame": { "x": 200, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-25": { "frame": { "x": 250, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-26": { "frame": { "x": 300, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-27": { "frame": { "x": 350, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-28": { "frame": { "x": 400, "y": 100, "w": 50, "h": 50 } },
+    "purple-gem-29": { "frame": { "x": 450, "y": 100, "w": 50, "h": 50 } }
+  },
+  "animations": {
+    "purple-gem": [
+      "purple-gem-0", "purple-gem-1", "purple-gem-2", "purple-gem-3", "purple-gem-4",
+      "purple-gem-5", "purple-gem-6", "purple-gem-7", "purple-gem-8", "purple-gem-9",
+      "purple-gem-10", "purple-gem-11", "purple-gem-12", "purple-gem-13", "purple-gem-14",
+      "purple-gem-15", "purple-gem-16", "purple-gem-17", "purple-gem-18", "purple-gem-19",
+      "purple-gem-20", "purple-gem-21", "purple-gem-22", "purple-gem-23", "purple-gem-24",
+      "purple-gem-25", "purple-gem-26", "purple-gem-27", "purple-gem-28", "purple-gem-29"
+    ]
+  },
+  "meta": {
+    "image": "purple-gem.png"
+  }
+}
